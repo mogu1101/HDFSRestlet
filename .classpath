@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hadoop-2.6.0"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/ganymed-ssh2-build210.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-common-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-hdfs-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-hdfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-hdfs-nfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-nfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-api-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-applications-distributedshell-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-applications-unmanaged-am-launcher-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-client-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-registry-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-server-applicationhistoryservice-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-server-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-server-nodemanager-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-server-resourcemanager-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-server-tests-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/hadoop-yarn-server-web-proxy-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/org.restlet.ext.json.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/HDFSRestlet/HDFSRestlet_lib/org.restlet.jar"/>
+	<classpathentry kind="lib" path="/Users/liujinjun/coding/java/spark-assembly-1.5.1-hadoop2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
